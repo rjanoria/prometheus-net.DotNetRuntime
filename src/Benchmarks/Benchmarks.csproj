@@ -25,7 +25,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="prometheus-net.AspNetCore" Version="3.1.2" />
+        <PackageReference Include="prometheus-net.AspNetCore" Version="3.4.0" />
     </ItemGroup>
     
     <ItemGroup>
